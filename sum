@@ -1,4 +1,5 @@
 #!/bin/bash
+# This is a great script
 sum=0
 for arg in $@
 do
